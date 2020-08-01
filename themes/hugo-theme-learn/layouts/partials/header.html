@@ -51,12 +51,6 @@
                   {{ $File := .File }}
                   {{ $Site := .Site }}
                   {{with $File.Path }}
-                  <div id="top-github-link">
-                    <a class="github-link" title='{{T "Edit-this-page"}}' href="{{ $Site.Params.editURL }}{{ replace $File.Dir "\\" "/" }}{{ $File.LogicalName }}" target="blank">
-                      <i class="fas fa-code-branch"></i>
-                      <span id="top-github-link-text">{{T "Edit-this-page"}}</span>
-                    </a>
-                  </div>
                   {{ end }}
                 {{ end }}
                 {{$toc := (and (not .Params.disableToc) (not .Params.chapter))}}
@@ -67,7 +61,7 @@
                         </a>
                     </span>
                   {{ if $toc }}
-                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
                   {{ end }}
                   <span class="links">
                  {{$showBreadcrumb := (and (not .Params.disableBreadcrumb) (not .Site.Params.disableBreadcrumb))}}

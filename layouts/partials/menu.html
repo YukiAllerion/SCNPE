@@ -3,9 +3,11 @@
 {{ $currentNode := . }}
 {{ $showvisitedlinks := .Site.Params.showVisitedLinks }}
   <div id="header-wrapper">
+    <a href="/en/">
     <div id="header">
       {{ partial "logo.html" . }}
     </div>
+  </a>
     {{if not .Site.Params.disableSearch}}
         {{ partial "search.html" . }}
     {{end}}

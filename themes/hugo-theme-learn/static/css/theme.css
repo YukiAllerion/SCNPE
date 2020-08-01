@@ -461,7 +461,7 @@ h2, h3, h4, h5, h6 {
     letter-spacing: -1px;
 }
 h1 {
-    font-family: "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-family: "Static", sans-serif;
     text-align: center;
     text-transform: uppercase;
     color: #222;
