@@ -9,4 +9,4 @@ pre: "<b>2. </b>"
 
 # DAWN OF THE SECOND DAY
 
-Find out how to create and organize your content quickly and intuitively.
+This is where the fun begins! (Well actually the fun has already started, but now you can experience even MORE fun!)

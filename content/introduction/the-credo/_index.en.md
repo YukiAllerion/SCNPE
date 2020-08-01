@@ -23,7 +23,9 @@ While the Credo forbids you to initiate aggression, you are absolutely allowed t
 
 ## ARE CERTAIN MODULES OR RIGS CONSIDERED NON-CREDO COMPLIANT?
 
-**Mynxee:**
+{{< rawhtml >}}
+<h2>Mynxee:</h2>
+{{< /rawhtml >}}
 I just want to point out that fits or modules need not be deemed "Credo compliant". All modules could be relevant for exploration. Modules that are commonly used for aggression can be used defensively. I often fit scramblers and webs with the thought if I can slow them down I might have a better chance of survival or a chance to level the playing field.
 
 **The only thing to evaluate as "credo compliant" is our intentions on how we plan to use our ships and modules.**
@@ -36,7 +38,9 @@ I just want to point out that fits or modules need not be deemed "Credo complian
 
 **Make them think twice.** Following the previous point. I don't fly as a true pacifist. I like to have options on how I'll respond. Personally, I'd prefer for our reputation to let us move freely through out New Eden (yes, I know this would be boring) because it would achieve something unique. I know this is far from a possibility because we play a PvP game and not everyone will know about us or truly trust us. When my reputation fails, I'd prefer for others to not think I'm easy prey. I want them to carefully consider attacking me. Again, this is MY application of the Credo and not THE WAY. Those that play closer to a true pacifist are valid options in my mind.
 
-**Thrice Hapus:**
+{{< rawhtml >}}
+<h2>Thrice Hapus:</h2>
+{{< /rawhtml >}}
 Here are three questions you could ask yourself regarding what action to take in pretty much any situation:
 
 **Is it specifically prohibited by the Credo?** If yes, stop.
