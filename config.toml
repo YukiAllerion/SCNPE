@@ -1,4 +1,4 @@
-baseURL = "yukiallerion.github.io/SCNPE/"
+baseURL = ""
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
@@ -16,7 +16,6 @@ defaultContentLanguageInSubdir= true
   disableBreadcrumb = false
   disableNextPrev = false
   themeVariant = "mine"
-  publishDir = "docs"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
